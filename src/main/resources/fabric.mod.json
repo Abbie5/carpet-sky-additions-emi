@@ -24,6 +24,7 @@
   },
 
   "depends": {
-    "emi": "*"
+    "emi": "*",
+    "fabric-api": "*"
   }
 }
